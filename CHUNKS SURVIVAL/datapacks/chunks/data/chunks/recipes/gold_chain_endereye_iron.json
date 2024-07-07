@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:gold_block"
+        },
+        {
+            "item": "minecraft:chain"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 2
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:value_check",
+                        "value": {
+                            "type": "minecraft:score",
+                            "target": "this",
+                            "score": "allow_nether"
+                        },
+                        "range": 0
+                    }
+                ],
+                "to": "minecraft:the_nether"
+            }
+        }
+    },
+    "rewards": {
+        "function": "chunks:no_nether"
+    }
+}

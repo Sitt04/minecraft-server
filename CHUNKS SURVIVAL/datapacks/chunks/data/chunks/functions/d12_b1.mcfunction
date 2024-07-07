@@ -1,0 +1,3 @@
+summon wither 8064 221 8035 {CustomNameVisible: 1b, DeathLootTable: "chunks:entities/shulker_big_reward", Invul: 4, CustomName: '{"text":"Vision of Death","color":"gold","italic":true}', Attributes: [{Name: generic.knockback_resistance, Base: 1}, {Name: generic.armor, Base: 10}, {Name: generic.armor_toughness, Base: 1}]}
+fill 8032 210 7996 8032 208 7998 reinforced_deepslate replace
+tellraw @a [{"text": "Vision of Death", "color": "red"},{"text": ": You don't belong here...", "color": "white"}]

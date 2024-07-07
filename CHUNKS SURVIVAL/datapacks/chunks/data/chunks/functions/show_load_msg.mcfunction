@@ -1,0 +1,6 @@
+tellraw @a {"text":"Welcome to...\n","color":"#999999"}
+tellraw @a [{"text":"===","color":"#FF0000"},{"text":"===","color":"#FF6600"},{"text":"===","color":"#FFAA00"},{"text":"===","color":"#FFFF00"},{"text":"===","color":"#88FF00"},{"text":"===","color":"#00FF00"},{"text":"===","color":"#00FF88"},{"text":"===","color":"#00FFFF"},{"text":"===","color":"#0088FF"},{"text":"===","color":"#0000FF"},{"text":"===","color":"#8800FF"},{"text":"===","color":"#CC00FF"},{"text":"===","color":"#FF00FF"}]
+tellraw @a [{"text":"—➤  ","color":"white", "bold": true},{"text":"CHUNKS SURVIVAL","color":"yellow", "bold": true}]
+tellraw @a [{"text":"—➤  ","color":"white", "bold": true},{"text":"A super hostile survival experience","color":"#FFCC44", "italic": true, "bold": false}]
+tellraw @a [{"text":"===","color":"#FF0000"},{"text":"===","color":"#FF6600"},{"text":"===","color":"#FFAA00"},{"text":"===","color":"#FFFF00"},{"text":"===","color":"#88FF00"},{"text":"===","color":"#00FF00"},{"text":"===","color":"#00FF88"},{"text":"===","color":"#00FFFF"},{"text":"===","color":"#0088FF"},{"text":"===","color":"#0000FF"},{"text":"===","color":"#8800FF"},{"text":"===","color":"#CC00FF"},{"text":"===","color":"#FF00FF"}]
+tellraw @a [{"text":"Difficulty set to: ","color":"#999999"},{"text":"HARD","color":"white"}]

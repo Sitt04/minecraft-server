@@ -1,0 +1,1 @@
+execute at @a run playsound minecraft:entity.warden.nearby_closest master @a ~ ~ ~ 1

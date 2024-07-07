@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "cgc",
+        " i "
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "g": {
+            "item": "minecraft:leather_helmet"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_helmet",
+        "count": 1
+    }
+}
